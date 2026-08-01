@@ -303,9 +303,10 @@ For financial support, you can use the following two methods (both inside and ou
   free; commercial/API/app embedding requires a paid license — contact
   amirvazirbaniwork@gmail.com.
 
-## Support
+## 📞 Contact Me
 
-- **Instagram:** [@amirvazirbani](https://instagram.com/amirvazirbani) — screenshot your results and tag it!
-- **Telegram:** [t.me/vazirbani](https://t.me/vazirbani)
-- **Email:** amirvazirbaniwork@gmail.com
-- **Financial support:** [coffeebede.com/promptbani](https://www.coffeebede.com/promptbani) (Iran) · [Trust Wallet USDT](https://link.trustwallet.com/send?coin=195&address=TLDuheyotfcfdcFk2RpF3h9FKy2LMQ1Yq6&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t) (outside Iran)
+*   **Email:** [amirvazirbaniwork@gmail.com](mailto:amirvazirbaniwork@gmail.com)
+*   **GitHub:** [github.com/boldgraph](https://github.com/boldgraph)
+*   **Telegram:** [t.me/vazirbani](https://t.me/vazirbani)
+*   **Instagram:** [amirvazirbani](https://instagram.com/amirvazirbani)
+*   **Linkedin:** [AmirMohammadVazirBani](https://www.linkedin.com/in/amir-mohammad-vazirbani-7924532b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
