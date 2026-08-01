@@ -277,11 +277,21 @@ To change the **default** model shipped to first-time users, edit
 
 ---
 
-## Support
+## 💝 How to Support PromptBani-Extension
 
-PromptBani is free and open source (MIT license). If it saves you time,
-consider starring the repo or supporting development via
-[GitHub Sponsors](https://github.com/boldgraph/PromptBani).
+You can support PromptBani-Extension in moral and financial ways:
+
+### Moral Support (Best way to support me)
+While using PromptBani-Extension, take a screenshot and tag my Instagram page. This is the biggest support you can give me:
+*   **Instagram:** [amirvazirbani](https://instagram.com/amirvazirbani)
+
+### Financial Support
+For financial support, you can use the following two methods (both inside and outside Iran) to support this project:
+
+| Location | Method | Link |
+| :--- | :--- | :--- |
+| **Outside Iran** | Tether(TRC20) | [Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TLDuheyotfcfdcFk2RpF3h9FKy2LMQ1Yq6&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t) |
+| **Inside Iran** | coffeebede | [coffeebede.com/promptbani](https://www.coffeebede.com/promptbani) |
 
 ## License
 
