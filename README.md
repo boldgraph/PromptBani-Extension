@@ -52,7 +52,7 @@ extension:
 1. Download or clone this repository.
 2. Run the build (see [Development setup](#development-setup) below) to produce a
    `dist/` folder, **or** grab a pre-built `dist.zip` from the
-   [Releases](https://github.com/boldgraph/PromptBani/releases) page and unzip it.
+   [Releases](https://github.com/boldgraph/PromptBani-Extension/releases) page and unzip it.
 3. Open `chrome://extensions` in Chrome (or `edge://extensions` in Edge).
 4. Turn on **Developer mode** (top-right toggle).
 5. Click **Load unpacked** and select the `dist/` folder.
